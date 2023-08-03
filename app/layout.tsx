@@ -19,7 +19,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT-Midjourney",
+    title: "智能小天 AI对话 AI绘画",
     statusBarStyle: "default",
   },
 };
